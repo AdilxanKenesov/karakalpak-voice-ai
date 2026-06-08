@@ -1,0 +1,35 @@
+<resources>
+    <!-- App name kept as the brand; all in-app UI text is Karakalpak (Latin). -->
+    <string name="app_name">Karakalpak Voice AI</string>
+
+    <!-- Home -->
+    <string name="home_brand">Voice AI</string>
+    <string name="home_subtitle">Qaraqalpaq tilinde</string>
+    <string name="home_heading">Qalay járdem bereyin?</string>
+    <string name="card_chat_title">Jazba sáwbet</string>
+    <string name="card_chat_subtitle">Tekst arqalı sóylesiw</string>
+    <string name="card_voice_title">AI menen sóylesiw</string>
+    <string name="card_voice_subtitle">Dawıs arqalı, hands-free</string>
+
+    <!-- Voice (hands-free) status labels -->
+    <string name="voice_listening">Tıńlap turman</string>
+    <string name="voice_capturing">Esitip atırman</string>
+    <string name="voice_transcribing">Sózge aylandırıp atır</string>
+    <string name="voice_thinking">Oylap atır</string>
+    <string name="voice_speaking">Sóylep atır</string>
+    <string name="voice_permission_needed">Sóylesiw ushın mikrofon ruxsatı kerek.</string>
+
+    <!-- Chat (text) -->
+    <string name="chat_title">Jazba sáwbet</string>
+    <string name="chat_empty">Sáwbetti baslań.</string>
+    <string name="chat_input_hint">Xabar jazıń…</string>
+    <string name="cd_send">Jiberiw</string>
+
+    <!-- Shared -->
+    <string name="action_retry">Qayta urınıp kóriw</string>
+    <string name="cd_new_chat">Jańa sáwbet</string>
+    <string name="cd_back">Artqa</string>
+    <string name="cd_replay">Jawaptı qayta tıńlaw</string>
+    <string name="label_you">Siz: %1$s</string>
+    <string name="tts_unavailable">Jawap dawısı qoljetimsiz — tek jazıw kórsetiledi.</string>
+</resources>

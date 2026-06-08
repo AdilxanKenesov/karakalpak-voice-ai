@@ -1,0 +1,9 @@
+# Copy this file to local.properties and fill in the values.
+# local.properties is git-ignored — never commit your real key.
+
+# Path to your Android SDK (Android Studio usually sets this for you).
+sdk.dir=/home/youruser/Android/Sdk
+
+# Google Gemini API key (free tier). Get one at https://aistudio.google.com/apikey
+# Restrict this key to the app's package name + SHA-1 in Google Cloud Console.
+GEMINI_API_KEY=YOUR_GEMINI_API_KEY_HERE

@@ -1,0 +1,17 @@
+# Secrets — never commit. Holds GEMINI_API_KEY and the local SDK path.
+local.properties
+
+# Gradle
+.gradle/
+build/
+captures/
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+
+# OS
+.DS_Store
+
+# Misc
+*.log

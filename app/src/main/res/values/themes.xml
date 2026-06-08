@@ -1,0 +1,5 @@
+<resources>
+    <!-- Base theme. Material 3 colors are driven by Compose (see ui/theme); this
+         Android-XML theme only needs to be a Material 3 parent for the splash/window. -->
+    <style name="Theme.KarakalpakVoiceAI" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
